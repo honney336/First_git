@@ -1,1 +1,3 @@
 This is test
+Something changed in test.txt
+something has changed
